@@ -1,11 +1,11 @@
 # Estudos
-Repositório com projetos de aulas e cursos
+Repositório com projetos de aulas e cursos. Os colchetes indicam onde foi realizado o curso
 
-### [Análise visual dos dados de tráfego da rodovia I-94](https://github.com/GCAntunes/Estudos/blob/main/trafego_veiculos.ipynb)
-Projeto do curso de DS da DataQuest. Objetivo deste projeto é fazer uma análise dos dados, de forma visual, para compreender o tráfego da rodovia  I-94
+### [[DataQuest] - Análise visual dos dados de tráfego da rodovia I-94](https://github.com/GCAntunes/Estudos/blob/main/trafego_veiculos.ipynb)
+Neste projeto realizei uma análise dos dados, de forma visual, para compreender o tráfego da rodovia  I-94
 
-### [Vendas de carro pelo eBay na Alemanha](https://github.com/GCAntunes/Estudos/blob/main/vendas_carro.ipynb)
-Projeto do curso de DS da DataQuest. Objetivo deste projeto é limpar a base de dados e realizar uma análise dos dados
+### [[DataQuest] - Vendas de carro pelo eBay na Alemanha](https://github.com/GCAntunes/Estudos/blob/main/vendas_carro.ipynb)
+Neste projeto limpei a base de dados e realizei uma análise dos dados, procurando encontrar quais as marcas mais vendidas, além do seus preços e kilometragens médias
 
-### [Sistemas de Recomendação](https://github.com/GCAntunes/Estudos/blob/main/sistemas_de_recomenda%C3%A7%C3%A3o.ipynb)
-Projeto do curso de Sistemas de Recomendação da IA Expert. Objetivo deste projeto é ganhar uma maior intuição e conhecimento acerca de sistemas de recomendação além de prog programar os algoritmos para sistemas de recomendação.
+### [[IA Expert] - Sistemas de Recomendação](https://github.com/GCAntunes/Estudos/blob/main/sistemas_de_recomenda%C3%A7%C3%A3o.ipynb)
+Objetivo deste projeto é ganhar uma maior intuição e conhecimento acerca de sistemas de recomendação além de programar os algoritmos para sistemas de recomendação e utiliza-los em uma base de dados de filmes.
