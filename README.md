@@ -9,3 +9,6 @@ Neste projeto limpei a base de dados e realizei uma análise dos dados, procuran
 
 ### [[IA Expert] - Sistemas de Recomendação](https://github.com/GCAntunes/Estudos/blob/main/sistemas_de_recomenda%C3%A7%C3%A3o.ipynb)
 Objetivo deste projeto é ganhar uma maior intuição e conhecimento acerca de sistemas de recomendação além de programar os algoritmos para sistemas de recomendação e utiliza-los em uma base de dados de filmes.
+
+### [[Udemy] - Chamadas do 911](https://github.com/GCAntunes/Estudos/blob/main/911_calls.ipynb)
+Estudo de dados das ligações de emergência(911) a partir de um dataset do Kaggle, focando na análise exploratória dos dados.
